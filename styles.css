@@ -14,11 +14,15 @@ html{
 
 body{
 
-    font-family:'Poppins',sans-serif;
+    font-family: 'Poppins', sans-serif;
 
-    background:#eef2f7;
+    background-image: url("imajenes/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 
-    color:#333;
+    color: #333;
 
 }
 
